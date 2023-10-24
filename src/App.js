@@ -7,9 +7,9 @@ function App() {
       <header className="App-header">
       <div className="App">
       <h1>CS 230L</h1>
-      <h2>Section - XX</h2>
-      <p>WVU ID: XXXXXXX</p>
-      <p>Hi, I am X</p>
+      <h2>Section - 001</h2>
+      <p>WVU ID: 800301762</p>
+      <p>Hi, I am Ifenna Ekwenem</p>
     </div>
   );
 }
